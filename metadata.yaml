@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37863'
     url: http://www.gutenberg.org/2009/agents/37863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35733#Leigh-Hunt-s-Relations-with-Byron-Shelley-and-Keats
 gutenberg_issued: '2011-03-31'
 gutenberg_type: Text
 identifiers:
