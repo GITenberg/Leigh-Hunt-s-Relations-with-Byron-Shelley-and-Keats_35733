@@ -1,0 +1,29 @@
+_repo: Leigh-Hunt-s-Relations-with-Byron-Shelley-and-Keats_35733
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Barnette
+    gutenberg_agent_id: '37863'
+    url: http://www.gutenberg.org/2009/agents/37863
+description: ''
+gutenberg_issued: '2011-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35733'
+  lccn: '10013197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Friends and associates'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Hunt, Leigh, 1784-1859 -- Friends and associates'
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824 -- Friends and associates'
+- !lcsh 'Keats, John, 1795-1821 -- Friends and associates'
+- !lcc 'PR'
+title: Leigh Hunt's Relations with Byron, Shelley and Keats
+url: http://www.gutenberg.org/ebooks/35733
